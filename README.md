@@ -42,3 +42,4 @@ The two portfolio entries are explicitly labelled original design concepts, not 
 
 Original design and supplied brand assets belong to their respective owners.
 "# s-yard" 
+"# s-yard" 
